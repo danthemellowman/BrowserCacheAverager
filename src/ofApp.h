@@ -4,8 +4,6 @@
 #include "ofxISF.h"
 #include "ofxXmlSettings.h"
 
-
-
 class ofApp : public ofBaseApp{
     
 public:
