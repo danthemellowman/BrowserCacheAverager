@@ -1,5 +1,5 @@
 # BrowserCacheAverager
-Project for 54-899 Graduate Decoding Media (Shea)
+Project for 
 
 #addons
 - [ofxISF](https://github.com/satoruhiga/ofxISF)
