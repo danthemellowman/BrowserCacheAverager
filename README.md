@@ -7,6 +7,8 @@ Project for Decoding Media
 
 ##Usage
 
+Clone the REPO or download the ZIP included in the REPO.  
+
 Drag and drop a chrome, safari, or firefox browser cache folder into the application's window.  Please wait while the data is loaded. _note it might take a while depending on your cache size_
 
 The application will then continuously average 10 of the cached images together and saves the current frame to a Time-Date-Stamped folder in ```/data```
