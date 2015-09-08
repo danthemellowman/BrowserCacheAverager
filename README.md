@@ -7,7 +7,7 @@ Project for Decoding Media
 
 ##Usage
 
-Clone the REPO or download the ZIP included in the REPO.  
+Clone the REPO or download the [ZIP](https://github.com/danthemellowman/BrowserCacheAverager/blob/master/BrowserCacheAverager.zip?raw=true) included in the REPO.  
 
 Drag and drop a chrome, safari, or firefox browser cache folder into the application's window.  Please wait while the data is loaded. _note it might take a while depending on your cache size_
 
