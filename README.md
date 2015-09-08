@@ -21,7 +21,7 @@ The application will then continuously average 10 of the cached images together 
 ###Safari
 
     ~/Library/Caches/com.apple.Safari/fsCachedData
-    ~//Library/Caches/com.apple.Safari/Webpage Previews
+    ~/Library/Caches/com.apple.Safari/Webpage Previews
 
 
 ###Firefox
